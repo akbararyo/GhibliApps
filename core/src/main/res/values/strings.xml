@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_image">Image</string>
+    <string name="text_desc">Description</string>
+    <string name="text_release">2000</string>
+    <string name="text_title">Title</string>
+</resources>

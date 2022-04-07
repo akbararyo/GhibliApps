@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GhibliApps</string>
+    <string name="text_image">Image</string>
+    <string name="text_error">Oops.. something went wrong</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="text_duration">120</string>
+    <string name="text_score">90</string>
+    <string name="text_producer">Producer</string>
+    <string name="txt_director">Director</string>
+    <string name="title_favorite">Favorite</string>
+</resources>
